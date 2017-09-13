@@ -1,7 +1,7 @@
 ---
 title: code syntax code code code test code
 description: 1code code
-tags: [products>sap-hana-cloud-platform, topic>cloud, topic>java]
+tags: [products>sap-hana-cloud-platform, topic>cloud, topic>java, tutorial>Bohdantag]
 primary_tag: tutorial:product/sapHana
 ---
  
